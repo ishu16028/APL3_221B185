@@ -1,0 +1,6 @@
+git --version tells the current installe version of git on your system
+git clone clones a repo from github
+git status
+git add .  stages all files to git (this does mean that no further changes are required in this file)
+PAT    personal access token
+git push origin  pushes all the staged files to 
