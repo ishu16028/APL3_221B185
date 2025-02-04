@@ -5,16 +5,6 @@
 Write your code in this editor and press "Run" button to execute it.
 
 *******************************************************************************/
-
-public class Q1
-{
-	public static void main(String[] args) {
-		System.out.println("Hello World");
-	}
-}
-
-
-
 class Voice{
     void prepareVoice(){
         Animal[] animal=new Animal[5];
