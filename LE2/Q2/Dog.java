@@ -1,5 +1,5 @@
 class Dog extends Animal{
     void makevoice(){
-        System.out.System.out.println("Voice of Dog");
+        System.out.println("Voice of Dog");
     }
 }
